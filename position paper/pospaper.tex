@@ -1,19 +1,23 @@
 \documentclass[12pt,letterpaper]{article}
-\usepackage[]{biblatex}
-\bibliography{sourcelist}
-\usepackage{ifpdf}
-\usepackage{../mla}
 
+\usepackage{../mla13}
+\sources{sourcelist.bib}
+
+\firstname{Nakul}
+\lastname{Joshi}
+\professor{Schroeder}
+\class{WRIT 340}
+\title{Title Goes Here}
 
 \begin{document}
 
-\begin{mla}{Nakul}{Joshi}{Schroeder}{WRIT 340}{\today}{Title Goes Here}
+\makeheader
 
 Humanity's demand for energy has grown at a dramatic rate since the industrial revolution. A majority of this energy is obtained from hydrocarbons, which have become very difficult and expensive to obtain as oil companies look further and deeper for sources to replace the ones that have been depleted. In recent years, the controversial process of induced hydraulic fracturing (commonly called `fracking') has emerged as a means of exploiting the previously inaccessible supplies of natural gas embedded in subterranian shale reservoirs. Proponents of the technique have pointed to the possibilities of largely reducing the reliance on imports of natural gas, while also stimulating local economies. However, the risks posed to the environments surrounding fracking sites have not been fully addressed by the industry, and short of an outright ban, heavy regulation of the process is necessary until long-term studies of its effects have been carried out.
 
-The fracking process involves creating a solution of water, sand, and various chemicals; the resultant fracking fluid is then injected down wellbores at high pressure. This creates millimetre-wide fissures along shale beds deep underground, allowing the embedded natural gas to migrate into the well, from where it can be extracted relatively easily. Without this enhancement of well output, extracting shale gas would be economically infeasible. According to the National Petroleum Council, fracking has the potential to provide for 70\%  \autocite{npc}  of the natural gas production in the North Amercican continent, and banning it would cut the production by half in around five years. Further, the spillover effects from investments in the technology have played a significant role in creating jobs.
+The fracking process involves creating a solution of water, sand, and various chemicals; the resultant fracking fluid is then injected down wellbores at high pressure. This creates millimetre-wide fissures along shale beds deep underground, allowing the embedded natural gas to migrate into the well, from where it can be extracted relatively easily. Without this enhancement of well output, extracting shale gas would be economically infeasible. According to the National Petroleum Council, fracking has the potential to provide for 70\%  \cite{npc}  of the natural gas production in the North Amercican continent, and banning it would cut the production by half in around five years. Further, the spillover effects from investments in the technology have played a significant role in creating jobs.
 
-However, the petrochemical engineers who develop fracking techniques have a responsibility to look beyond the profit margins of their employers, and ensure that their designs pose minimal harm in the big picture, and in the long run. As the National Society of Professional Engineers (NSPE) Code of Ethics for Engineers states, ``Engineering has a direct and vital impact on the quality of life for all people. Accordingly, the services provided by engineers [\ldots] must be dedicated to the protection of the public health, safety, and welfare" \autocite{ethics}. The various doubts expressed over the safety of the fracking process shows that these engineers have failed in this regard.
+However, the petrochemical engineers who develop fracking techniques have a responsibility to look beyond the profit margins of their employers, and ensure that their designs pose minimal harm in the big picture, and in the long run. As the National Society of Professional Engineers (NSPE) Code of Ethics for Engineers states, ``Engineering has a direct and vital impact on the quality of life for all people. Accordingly, the services provided by engineers [\ldots] must be dedicated to the protection of the public health, safety, and welfare" \cite{ethics}. The various doubts expressed over the safety of the fracking process shows that these engineers have failed in this regard.
 
 The primary concern is contamination of freshwater supplies-- besides being a highly water-intensive process itself, fracking also places local supplies of water at risk. Oil lobbies have won exemptions from the Clean Water act and the Safe Water Drinking Act, buying themselves opacity about the safety of the process. While the precise composition of the fracking fluids used is kept proprietary and thus hidden from public scrutiny, it is known that they contain heavy metals, organometallic compounds, and even trace amounts of radium, all of which are highly toxic in nature. Oil companies maintain that this fluid can be safely contained within the wells; however, several cases have been reported of the fluid leaching into local water bodies. This contamination is a direct threat to residents, with potential to cause respiratory illnesses, birth defects and neurological damage. The stability of local ecosystems is also undermined by such contamination. 
 
@@ -21,9 +25,6 @@ A more dramatic danger comes from the geological effects of fracking. Because th
 
 Obscuring these heavy concerns is a veil of legislative loopholes and industry-funded research. In 2005, the so-called `Halliburton Loophole' was passed, denying the Environmental Protection Agency the power to regulate the fracking process. The loophole was part of the Energy Bill passed by then-Vice President Dick Cheney, who happened to have been a former executive at Halliburton, the oil company that invented the fracking process. Such conflicts of interest are abundant-- soon after a UT Austin study led by geologist Charles Groat widely publicised its finding that fracking had not contaminated groundwater, it surfaced that Groat had failed to disclose his position on the board of a company that ran fracking operations. By rooting themselves into the legislature as well as academia, two spheres responsible for protecting the public interest, oil companies have shown a ruthlessness in getting their way.
 
+\makeworkscited
 
-
-\end{mla}
-\nocite{*}
-\printbibliography
 \end{document}
