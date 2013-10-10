@@ -1,0 +1,112 @@
+\documentclass[pdf]{beamer}
+\usepackage{utopia}
+\usepackage{multicol}
+
+\title{Fracking}
+\author{Nakul Joshi}
+\date{\today}
+
+
+\usefonttheme{structuresmallcapsserif}
+\usetheme{Warsaw}
+\usecolortheme{crane}
+
+\begin{document}
+
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+
+
+\AtBeginSection{\begin{frame}
+	\frametitle{Outline}
+	\tableofcontents[currentsection]
+\end{frame}}
+
+\section{Introduction}
+
+	\subsection{Energy Demand}\begin{frame}
+		\begin{multicols}{2}
+		\begin{figure}
+			\includegraphics[scale=0.23]{graph.png}
+		\end{figure}
+		
+		\begin{table}\begin{tabular}{lrrr}
+			Year & Fossil & Renewable & Nuclear \\
+			1990 & 83.4   & 6.1       & 13.1    \\
+			2000 & 94.5   & 7.9       & 15.3    \\
+			2008 & 117.1  & 8.3       & 18.5    \\
+			\end{tabular}
+			\caption {Global energy use in petawatt-hours}
+		\end{table}
+		\end{multicols}
+	\end{frame}
+	
+	\subsection{Fracking Process}\begin{frame}
+		\begin{figure}
+			\includegraphics[scale=0.25]{process.pdf}
+		\end{figure}
+	\end{frame}
+	
+\section{Claimed Advantages}
+
+	\subsection{Energy Independence}\begin{frame}\begin{itemize}
+		\item America has large reserves of natural gas in shale beds.
+		\item Shale reserves can provide upto 70\% of North America's natural gas.
+		\item Banning fracking would cut production by half in five years.
+	\end{itemize}\end{frame}
+	
+	\subsection{Economic Stimulation}\begin{frame}\begin{itemize}
+		\item Reduce prices of natural gas
+		\item Job creation
+		\item Stimulation of economies from investments
+	\end{itemize}\end{frame}
+
+\section{Risks}
+	\subsection{Water Contamination}
+		\input{contamination.tex}
+	\subsection{Earthquakes}
+		\input{quake.tex}
+
+\section{Big Oil}
+	\subsection{Politics}\begin{frame}
+	Big oil has managed to lobby for exemptions from most environmental regulation. 
+		\begin{itemize}
+			\item Safe Drinking Water Act
+			\item Clean Air and Clean Water Acts
+			\item Energy Act (``Halliburton Loophole")
+				\begin{itemize}
+					\item Passed by Dick Cheney
+					\item Former executive of Halliburton
+				\end{itemize}
+		\end{itemize}
+	\end{frame}
+	\subsection{Academia}\begin{frame}
+		\begin{itemize}
+			\item Industry-funded research advocates fracking, but cannot be trusted
+			\item Conflicts of interest are not reported
+			\item Example: UT Austin Study
+		\end{itemize}
+	\end{frame}
+
+\section{Conclusion}
+\begin{frame}
+	\begin{itemize}
+		\item The transient benefits of fracking do not justify the long-term risks
+		\item The industry cannot be trusted with regulation
+		\item We should be looking for solutions that can secure our future, not threaten it...
+	\end{itemize}
+\end{frame}
+\begin{frame}
+	\begin{figure}
+		\includegraphics[scale=1]{renewable.jpg}
+	\end{figure}
+\end{frame}
+\begin{frame}
+	``The use of solar energy has not been opened up because the oil industry does not own the sun.''
+	 -- Ralph Nader
+\end{frame}
+
+\end{document}
