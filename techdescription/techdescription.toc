@@ -1,9 +1,15 @@
-\contentsline {section}{\numberline {1}Introduction}{2}
-\contentsline {section}{\numberline {2}Description}{2}
-\contentsline {subsection}{\numberline {2.1}Overall Description}{2}
-\contentsline {subsection}{\numberline {2.2}Description of Parts}{2}
-\contentsline {subsubsection}{\numberline {2.2.1}Part 1}{2}
-\contentsline {subsubsection}{\numberline {2.2.2}Part 2}{2}
-\contentsline {section}{\numberline {3}Assembly}{2}
-\contentsline {section}{\numberline {4}Process}{2}
-\contentsline {section}{\numberline {5}Conclusion}{2}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Description}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Overall Description}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Description of Parts}{4}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Part 1}{4}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Part 2}{4}{subsubsection.2.2.2}
+\contentsline {section}{\numberline {3}Assembly}{4}{section.3}
+\contentsline {section}{\numberline {4}Process}{4}{section.4}
+\contentsline {paragraph}{Notation}{4}{section*.6}
+\contentsline {subsection}{\numberline {4.1}Cross}{4}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Corners}{4}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Middle Layer}{4}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Top Cross}{4}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Top Layer}{4}{subsection.4.5}
+\contentsline {section}{\numberline {5}Conclusion}{4}{section.5}
