@@ -1,12 +1,13 @@
 \documentclass[]{article}
+\bibliographystyle{plain}
 
 \usepackage[utf8]{inputenc}
+\usepackage[nottoc,notlot,notlof]{tocbibind}
 \usepackage{hyperref}
 \usepackage{graphicx}
 \usepackage{caption}
 \usepackage{subcaption}
-\usepackage{natib}
-\bibliography{refs.bib}
+\usepackage{url}
 \graphicspath{{./images/}}
 %\title{The Rubik's Cube\\Owner's Manual}
 %\author{Nakul Joshi}
@@ -20,6 +21,8 @@
 
 
 \begin{document}
+
+
 
 \input{title.tex}
 \tableofcontents
@@ -47,8 +50,7 @@
 \section{Algorithm Notation}\label{app:notation}
 \input{algorithms.tex}
 
-\nocite{visuals}
-\nocite{parts}
-\printibliography
-
+\newpage
+\nocite{*}
+\bibliography{refs}
 \end{document}

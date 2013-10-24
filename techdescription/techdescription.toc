@@ -14,3 +14,4 @@
 \contentsline {subsection}{\numberline {4.5}Final Layer}{11}{subsection.4.5}
 \contentsline {section}{\numberline {5}Conclusion}{12}{section.5}
 \contentsline {section}{\numberline {A}Algorithm Notation}{13}{appendix.A}
+\contentsline {section}{References}{14}{section*.19}
