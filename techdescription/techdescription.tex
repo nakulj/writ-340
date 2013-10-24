@@ -5,6 +5,8 @@
 \usepackage{graphicx}
 \usepackage{caption}
 \usepackage{subcaption}
+\usepackage{natib}
+\bibliography{refs.bib}
 \graphicspath{{./images/}}
 %\title{The Rubik's Cube\\Owner's Manual}
 %\author{Nakul Joshi}
@@ -35,10 +37,18 @@
 \newpage
 \section{Process}
 \input{process.tex}
+\newpage
 \section{Conclusion}
+\input{conclusion.tex}
+\newpage
 
 \appendix
 
 \section{Algorithm Notation}\label{app:notation}
 \input{algorithms.tex}
+
+\nocite{visuals}
+\nocite{parts}
+\printibliography
+
 \end{document}

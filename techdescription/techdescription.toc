@@ -8,9 +8,9 @@
 \contentsline {section}{\numberline {4}Process}{6}{section.4}
 \contentsline {paragraph}{Matters of notation}{6}{section*.9}
 \contentsline {subsection}{\numberline {4.1}Cross}{6}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Corners}{7}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Middle Layer}{8}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Bottom Cross}{9}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Final Layer}{9}{subsection.4.5}
-\contentsline {section}{\numberline {5}Conclusion}{9}{section.5}
-\contentsline {section}{\numberline {A}Algorithm Notation}{9}{appendix.A}
+\contentsline {subsection}{\numberline {4.2}Corners}{8}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Middle Layer}{9}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Bottom Cross}{10}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Final Layer}{11}{subsection.4.5}
+\contentsline {section}{\numberline {5}Conclusion}{12}{section.5}
+\contentsline {section}{\numberline {A}Algorithm Notation}{13}{appendix.A}
