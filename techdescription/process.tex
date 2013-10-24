@@ -1,16 +1,33 @@
-This section presents the `Layer Method' for solving the cube. This algorithm is far from optimal, but is easy for beginners to learn.
+This section presents the `Layer Method' for solving the cube. This algorithm is far from optimal, but is easy for beginners to learn. We shall start with the white face for this example; in general, one can start from any face.
 
 \paragraph{Matters of notation} This section utilises standard Rubik's Cube notation to describe the solution. Consult Appendix ~\ref{app:notation} for information on this notation.
-%\begin{description}
-
-%\end{description}
 
 \subsection{Cross}
+\input{topcross.tex}
 
 \subsection{Corners}
+\input{corners.tex}
 
 \subsection{Middle Layer}
+\input{midlayer.tex}
 
-\subsection{Top Cross}
+\subsection{Bottom Cross}
+The general strategy for this stage is:\begin{enumerate}
+	\item Make a (not necessarily aligned) cross, see \figref{fakecross}.
+	\item `Fix' the cross, see \figref{realcross}.
+\end{enumerate}
+\begin{figure}[h]
+	\centering
+	\begin{subfigure}[b]{0.3\textwidth}
+		\includegraphics[width=\textwidth]{fakecross.png}
+		\caption{Incomplete cross}\label{fig:fakecross}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.3\textwidth}
+		\includegraphics[width=\textwidth]{realcross.png}
+		\caption{`Fixed' cross}\label{fig:realcross}
+	\end{subfigure}
+	\caption{Bottom cross}
+\end{figure}
 
-\subsection{Top Layer}
+
+\subsection{Final Layer}
