@@ -2,14 +2,14 @@
 \contentsline {section}{\numberline {2}Description}{4}{section.2}
 \contentsline {subsection}{\numberline {2.1}Overall Description}{4}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Description of Parts}{4}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {2.2.1}Central Cross}{4}{subsubsection.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.2}Part 2}{4}{subsubsection.2.2.2}
-\contentsline {section}{\numberline {3}Assembly}{4}{section.3}
-\contentsline {section}{\numberline {4}Process}{4}{section.4}
-\contentsline {paragraph}{Notation}{4}{section*.7}
-\contentsline {subsection}{\numberline {4.1}Cross}{5}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Corners}{5}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Middle Layer}{5}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Top Cross}{5}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Top Layer}{5}{subsection.4.5}
-\contentsline {section}{\numberline {5}Conclusion}{5}{section.5}
+\contentsline {subsubsection}{\numberline {2.2.1}Central Core}{4}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Exterior Facelets}{4}{subsubsection.2.2.2}
+\contentsline {section}{\numberline {3}Assembly}{5}{section.3}
+\contentsline {section}{\numberline {4}Process}{6}{section.4}
+\contentsline {paragraph}{Notation}{6}{section*.9}
+\contentsline {subsection}{\numberline {4.1}Cross}{6}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Corners}{6}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Middle Layer}{6}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Top Cross}{6}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Top Layer}{6}{subsection.4.5}
+\contentsline {section}{\numberline {5}Conclusion}{6}{section.5}
