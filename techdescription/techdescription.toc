@@ -6,10 +6,11 @@
 \contentsline {subsubsection}{\numberline {2.2.2}Exterior Facelets}{4}{subsubsection.2.2.2}
 \contentsline {section}{\numberline {3}Assembly}{5}{section.3}
 \contentsline {section}{\numberline {4}Process}{6}{section.4}
-\contentsline {paragraph}{Notation}{6}{section*.9}
+\contentsline {paragraph}{Matters of notation}{6}{section*.9}
 \contentsline {subsection}{\numberline {4.1}Cross}{6}{subsection.4.1}
 \contentsline {subsection}{\numberline {4.2}Corners}{6}{subsection.4.2}
 \contentsline {subsection}{\numberline {4.3}Middle Layer}{6}{subsection.4.3}
 \contentsline {subsection}{\numberline {4.4}Top Cross}{6}{subsection.4.4}
 \contentsline {subsection}{\numberline {4.5}Top Layer}{6}{subsection.4.5}
 \contentsline {section}{\numberline {5}Conclusion}{6}{section.5}
+\contentsline {section}{\numberline {A}Algorithm Notation}{6}{appendix.A}
